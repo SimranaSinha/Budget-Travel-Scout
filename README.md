@@ -5,6 +5,10 @@
 > A multi-agent AI system that finds the best **vibe vs. cost** match for your next trip — in under 10 seconds.
 ---
 
+## 🔗 Live Link
+https://huggingface.co/spaces/Simi2407/budget-travel-scout
+
+---
 ## ✨ What it does
 
 Budget Travel Scout takes a destination, origin city, travel interest, max daily budget, and trip duration — and runs a 3-agent AI pipeline that returns:
