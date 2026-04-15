@@ -136,18 +136,6 @@ Real web data grounds the LLM responses for accurate, destination-specific answe
 
 ---
 
-## 🎯 Sample Output
-
-**Boston → Mumbai · Adventure · 6 days · Max $5,000/day**
-
-| Agent | Output |
-|-------|--------|
-| 🔵 A | Flight: $800–$1,500 · Hotel: $50–$150/night |
-| 🟢 B | Marine Drive (Free), Sanjay Gandhi National Park (Free), Elephanta Caves ($5–$15) |
-| 🟣 C | Grand daily total: $382 · Score: 8/10 · Within budget · Trip total: ~$2,520 |
-
----
-
 ## ⭐ Key Features
 
 - 💰 **Budget constraint mode** — set a max daily budget, get a green/red over-under indicator
