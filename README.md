@@ -26,6 +26,7 @@ Budget Travel Scout takes a destination, origin city, travel interest, max daily
 ### Running Locally
 1. Clone the repo
 > git clone https://huggingface.co/spaces/Simi2407/budget-travel-scout
+
 > cd budget-travel-scout
 
 2. Install dependencies
