@@ -23,6 +23,20 @@ Budget Travel Scout takes a destination, origin city, travel interest, max daily
 
 ## 🚀 How to Run
 
+### Running Locally
+1. Clone the repo
+git clone https://huggingface.co/spaces/Simi2407/budget-travel-scout
+cd budget-travel-scout
+
+2. Install dependencies
+pip install openai gradio beautifulsoup4 chromadb sentence-transformers requests
+
+3. Set your API key
+export OPENAI_API_KEY="your-key-here"
+
+4. Run
+python app.py
+
 This project runs entirely on **Google Colab** — no local setup needed.
 
 ### Steps
