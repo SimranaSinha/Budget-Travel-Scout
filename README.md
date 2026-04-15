@@ -1,5 +1,3 @@
-# Budget-Travel-Scout
-
 # 🌍 Budget Travel Scout
 
 > A multi-agent AI system that finds the best **vibe vs. cost** match for your next trip — in under 10 seconds.
