@@ -106,13 +106,19 @@ Real web data grounds the LLM responses for accurate, destination-specific answe
 ## 📁 Project Structure
 
 ```
-budget-travel-scout/
+🗂️ budget-travel-scout/
 |
-├── Gen_AI_Prj_Enhanced.ipynb   # 📓 Main Colab notebook (run this)
+├── 📄 Gen_AI_Prj_Enhanced.ipynb   - Main Colab notebook 
 |
-├── Gen AI_Final Prj.pptx       # 📓 Presentation
+├── 📁 Hugging Face                - Main Depolyment
+│   │
+│   ├── 🗳️ app.py
+│   │
+│   └── 🗳️ requirements.txt
 |
-└── README.md                   # 📄 You are here
+├── 📄 Gen AI_Final Prj.pptx      - Presentation
+|
+└── 📘 README.md                  - Documentation
 ```
 
 ---
