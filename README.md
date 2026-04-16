@@ -18,7 +18,15 @@ Budget Travel Scout takes a destination, origin city, travel interest, max daily
 - 📊 **Total trip cost estimate** based on your trip duration
 
 ---
+## 📸 Screenshots
 
+### User Input
+![User Input](https://raw.githubusercontent.com/SimranaSinha/Budget-Travel-Scout/main/UI-Demo/Destination-User%20Input.png)
+
+### Full Report Output
+![Full Report](https://raw.githubusercontent.com/SimranaSinha/Budget-Travel-Scout/main/UI-Demo/Full%20Report.png)
+
+---
 ## 🚀 How to Run
 
 ### Running Locally - Using Huggingface 
