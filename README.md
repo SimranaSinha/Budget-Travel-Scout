@@ -174,5 +174,5 @@ Gradio integrates natively with Colab and generates a shareable public link with
 | 🎨 User experience (25%) | Gradio UI with budget slider, trip duration, example queries, styled HTML report card |
 | 💡 Innovation & complexity (20%) | Full RAG pipeline, budget constraint mode, savings tips, graceful fallbacks |
 | 📄 Documentation (15%) | This README + fully documented Colab notebook with markdown explanation cells |
-| ⏱️ Project management (15%) | Iterative development — resolved timeout issues, deployment challenges, syntax errors 
+| ⏱️ Project management (15%) | Iterative development — resolved timeout issues, deployment challenges, syntax errors |
 
