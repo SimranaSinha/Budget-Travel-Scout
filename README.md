@@ -1,4 +1,4 @@
-# 🌍 Budget Travel Scout
+# 🌍AI Travel Planner: Budget-Based Itinerary Generator
 
 > A multi-agent AI system that finds the best **vibe vs. cost** match for your next trip — in under 10 seconds.
 ---
